@@ -1,0 +1,12 @@
+moviepy==1.0.3
+Pillow==9.5.0
+gTTS==2.3.2
+pydub==0.25.1
+python-dotenv==1.0.0
+
+# opsional untuk TTS offline
+pyttsx3==2.90
+
+# opsional untuk image-generation (jika user ingin pakai Stable Diffusion)
+# diffusers[torch]==0.21.2
+# transformers==4.40.0
