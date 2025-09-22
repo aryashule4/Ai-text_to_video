@@ -1,0 +1,1 @@
+moviepy.editor.TextClip dan .set_position(('center','bottom')) lalu .set_duration(...).
